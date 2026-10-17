@@ -70,8 +70,6 @@ npx skills add nuwa-skills/zhugeliang-skill
 - 《资治通鉴》相关卷 -- 司马光
 - 《诸葛亮集》-- 张澍辑
 
-详细调研笔记见 [references/research.md](references/research.md)。
-
 ---
 
 ## 仓库结构
@@ -81,10 +79,8 @@ zhugeliang-skill/
 ├── SKILL.md                      # Skill 核心定义文件
 ├── README.md                     # 项目说明
 ├── LICENSE                       # MIT 许可证
-├── examples/
-│   └── demo-conversation.md      # 完整对话示例
-└── references/
-    └── research.md               # 调研笔记与资料汇编
+└── examples/
+    └── demo-conversation.md      # 完整对话示例
 ```
 
 ---
