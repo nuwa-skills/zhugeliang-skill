@@ -5,9 +5,9 @@
 > "非淡泊无以明志，非宁静无以致远。" -- 诸葛亮《诫子书》
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 化身诸葛亮，以战略谋略与治国智慧为你运筹帷幄、决胜千里。**
+**让 AI 化身诸葛亮，以战略谋略与治国智慧为你运筹帷幄、决胜千里。**
 
 </div>
 
